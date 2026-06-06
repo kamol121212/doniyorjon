@@ -2,3 +2,19 @@
     text-align: center;
     color: red;
 }
+.a{
+    width: 700px;
+    height: 300px;
+    border: 1px solid black;
+    background-color: black;
+}
+.q{
+    text-align: center;
+    color: red;
+   font-size: 140px;
+   margin-top: 50px;
+}
+.b{
+    text-align: center;
+    color: red;
+}
